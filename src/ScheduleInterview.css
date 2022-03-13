@@ -1,0 +1,48 @@
+.content {
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+  }
+  .create h1{
+    text-align: center;
+    border-top: 2cm;
+    color: #ddd;
+  }
+  
+  
+  
+  .create {
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  .create label {
+    color: #ddd;
+    text-align: left;
+    margin-bottom: 5px;
+    margin-top: 15px;
+    display: block;
+  }
+  .create h2 {
+    font-size: 20px;
+    color: #ffcc5c;
+    margin-bottom: 30px;
+  }
+  .create input,
+  .create textarea,
+  .create select {
+    width: 100%;
+    padding: 6px 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+  }
+  .create button {
+    background: #ffcc5c;
+    margin-top: 20px;
+    color: #fff;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+  }

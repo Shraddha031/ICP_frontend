@@ -1,0 +1,28 @@
+.navbar
+{
+  padding: 30px;
+  display: flex;
+  align-items:center;
+  max-width: 1400px;
+  margin: 10 auto;
+  border-bottom: 2px double #F85C70;
+  margin-bottom: 1cm;
+}
+.navbar h1 {
+  font-size: xx-large;
+  margin-bottom: 0cm;
+  font-weight: 210000;
+  color:#F85C70;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 14px;
+  font: 20px sans-serif;
+  color: black;
+  text-decoration: none;
+  padding: 6px;
+  color: #FBE698;
+  
+}

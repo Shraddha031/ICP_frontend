@@ -1,0 +1,41 @@
+.interview-preview {
+    padding: 10px 16px;
+    margin: 20px 0;
+    border-bottom: 1px solid #fafafa;
+  }
+  .interview-preview:hover {
+    box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .interview-preview h2 {
+    font-size: 20px;
+    color: #ffcc5c;
+    margin-bottom: 8px;
+  }
+  .interview-list h1{
+    border-top: 5cm;
+    color: #ddd;
+  
+  }
+  .red-btn {
+    color: white;
+    border-radius: 6px;
+  }
+  .home-btn {
+    color: white;
+    border-radius: 6px;
+  }
+  .green-btn {
+    color: white;
+    background-color: #18a558;
+    border-radius: 6px;
+    padding: 2px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  .blue-btn {
+    color: white;
+    background-color: #0064ff;
+    border-radius: 6px;
+  }
